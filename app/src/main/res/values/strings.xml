@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PremierTest</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="retour">Retour</string>
+
+    <!--_________________________________Présentation IF______________________________-->
+
+    <string name="titre_presentation_if">L\'association Imaginarium Festival</string>
+    <string name="desc_if1">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis vulputate interdum justo nec dictum. Maecenas efficitur, orci quis fringilla lobortis, augue nisl porttitor ante, et interdum diam magna quis elit. Duis nec velit hendrerit dolor condimentum vulputate. Vestibulum laoreet metus sed velit porta, ac viverra metus luctus. Donec a dui quam. Duis dictum iaculis nisl, sed elementum felis ornare in. Pellentesque ullamcorper sapien sed mi mattis, et interdum ex suscipit. Sed placerat vitae urna at venenatis. Etiam vitae fermentum velit, molestie venenatis sem. Vivamus fermentum libero quis nunc cursus, sed euismod tellus malesuada. Praesent hendrerit dui justo, sed mattis nisl suscipit sit amet. Suspendisse lacinia, augue non facilisis volutpat, nisl est feugiat massa, non molestie enim metus sit amet felis. Praesent elit diam, sollicitudin nec facilisis non, auctor at magna.
+    </string>
+    <string name="desc_if2">
+    Nulla eget est tincidunt, porta magna sit amet, maximus tellus. Praesent varius arcu in massa pulvinar, quis aliquet nisi rutrum. Sed sodales eu lorem vel pellentesque. Phasellus efficitur nulla ipsum, eu convallis nunc aliquam eu. Maecenas a ex eu odio imperdiet luctus. Phasellus maximus velit sit amet consequat lobortis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam lacinia dictum lacinia.
+    </string>
+
+    <!--_________________________________Billeterie______________________________-->
+    <string name="titre_billeterie">Billeterie</string>
+    <string name="billeterie1">Tarifs :</string>
+    <string name="billeterie2">1 jours : 30 €</string>
+    <string name="billeterie3">2 jours : 50 €</string>
+    <string name="boutique">Accèder à la boutique</string>
+
+    <!--_________________________________Réglement______________________________-->
+    <string name="titre_reglement">Reglement</string>
+
+    <!--_________________________________Partenaires______________________________-->
+    <string name="titre_partenaires">Partenaires</string>
+
+    <!--_________________________________Appareil Photo______________________________-->
+    <string name="bouton_photo">Photo</string>
+
+    <!--_________________________________Calques______________________________-->
+    <string name="bouton_calque_photo">Sélectionner photo</string>
+    <string name="bouton_calque_save">Enregistrer</string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>

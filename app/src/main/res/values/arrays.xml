@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+
+
+        ______________________________PARTENAIRES_______________________________
+
+
+    -->
+    <string-array name="le_tigre">
+        <item name="titre">Le Tigre - Pôle événementiel</item>
+        <item name="source">le_tigre</item>
+    </string-array>
+    <string-array name="societe_general">
+        <item name="titre">Société Générale</item>
+        <item name="source">societe_generale</item>
+    </string-array>
+    <string-array name="virgin_radio">
+        <item name="titre">Virgin Radio</item>
+        <item name="source">virgin_radio</item>
+    </string-array>
+    <string-array name="france3_picardie">
+        <item name="titre">France 3 Picardie</item>
+        <item name="source">france3_picardie</item>
+    </string-array>
+    <string-array name="tremplin_utc">
+        <item name="titre">Tremplin UTC</item>
+        <item name="source">tremplin_utc</item>
+    </string-array>
+    <string-array name="sncf">
+        <item name="titre">SNCF</item>
+        <item name="source">sncf</item>
+    </string-array>
+    <string-array name="lyonnaise_des_eaux">
+        <item name="titre">Lyonnaise des eaux</item>
+        <item name="source">lyonnaise_des_eaux</item>
+    </string-array>
+    <string-array name="soon_night">
+        <item name="titre">SoonNight</item>
+        <item name="source">soon_night</item>
+    </string-array>
+    <string-array name="basto">
+        <item name="titre">BASTO étanchéité</item>
+        <item name="source">basto</item>
+    </string-array>
+    <string-array name="impact">
+        <item name="titre">Impact</item>
+        <item name="source">impact</item>
+    </string-array>
+    <string-array name="webhelp">
+        <item name="titre">WebHelp</item>
+        <item name="source">web_help</item>
+    </string-array>
+    <string-array name="arval">
+        <item name="titre">ARVAL Architecture</item>
+        <item name="source">arval</item>
+    </string-array>
+    <string-array name="blablacar">
+        <item name="titre">Blablacar</item>
+        <item name="source">blablacar</item>
+    </string-array>
+    <string-array name="secur_feu">
+        <item name="titre">Secur_feu</item>
+        <item name="source">secure_feu</item>
+    </string-array>
+    <string-array name="ibis">
+        <item name="titre">Ibis</item>
+        <item name="source">ibis</item>
+    </string-array>
+    <string-array name="lezard">
+        <item name="titre">Lézard Créatif Compiègne</item>
+        <item name="source">lezard</item>
+    </string-array>
+    <string-array name="haribo">
+        <item name="titre">Haribo</item>
+        <item name="source">haribo</item>
+    </string-array>
+    <string-array name="skyn">
+        <item name="titre">Skyn</item>
+        <item name="source">skyn</item>
+    </string-array>
+    <string-array name="manix">
+        <item name="titre">Manix</item>
+        <item name="source">manix</item>
+    </string-array>
+    <string-array name="maze">
+        <item name="titre">Maze</item>
+        <item name="source">maze</item>
+    </string-array>
+    <string-array name="festivalrocks">
+        <item name="titre">Festivals Rocks</item>
+        <item name="source">festivalrocks</item>
+    </string-array>
+    <string-array name="sorbonne">
+        <item name="titre">Sorbonne Universités</item>
+        <item name="source">sorbonne_universites</item>
+    </string-array>
+    <string-array name="utc">
+        <item name="titre">UTC</item>
+        <item name="source">utc</item>
+    </string-array>
+    <string-array name="conseil_regional">
+        <item name="titre">Conseil Régional Picardie</item>
+        <item name="source">picardie</item>
+    </string-array>
+    <string-array name="bde_utc">
+        <item name="titre">BDE UTC</item>
+        <item name="source">bde_utc</item>
+    </string-array>
+    <string-array name="arc">
+        <item name="titre">ARC</item>
+        <item name="source">arc</item>
+    </string-array>
+    <string-array name="conseil_departemental">
+        <item name="titre">Conseil Départemental de l\'Oise</item>
+        <item name="source">oise</item>
+    </string-array>
+    <string-array name="crous">
+        <item name="titre">Crous Picardie</item>
+        <item name="source">crous</item>
+    </string-array>
+    <string-array name="escom">
+        <item name="titre">ESCOM</item>
+        <item name="source">escom</item>
+    </string-array>
+    <string-array name="esiea_paris">
+        <item name="titre">ESIEA Paris</item>
+        <item name="source">esiea</item>
+    </string-array>
+    <string-array name="esc_amiens">
+        <item name="titre">ESC Amiens</item>
+        <item name="source">esc_amiens2</item>
+    </string-array>
+    <string-array name="polythec_lille">
+        <item name="titre">Polytech Lille</item>
+        <item name="source">polythec_lille2</item>
+    </string-array>
+    <string-array name="bde_esiee">
+        <item name="titre">BDE ESIEE</item>
+        <item name="source">bde_esiee2</item>
+    </string-array>
+    <string-array name="estaca">
+        <item name="titre">ESTACA Paris</item>
+        <item name="source">estaca_paris2</item>
+    </string-array>
+    <string-array name="bde_polytechparis">
+        <item name="titre">Polytech Paris-UPMC</item>
+        <item name="source">bde_polytechparis</item>
+    </string-array>
+    <string-array name="bde_insa">
+        <item name="titre">BDE INSA Rouen</item>
+        <item name="source">bde_insa</item>
+    </string-array>
+    <string-array name="bda_dauphine">
+        <item name="titre">BDA Dauphine</item>
+        <item name="source">bdadauphine</item>
+    </string-array>
+    <array name="liste_partenaires">
+        <item>@array/le_tigre</item>
+        <item>@array/societe_general</item>
+        <item>@array/virgin_radio</item>
+        <item>@array/france3_picardie</item>
+        <item>@array/tremplin_utc</item>
+        <item>@array/sncf</item>
+        <item>@array/lyonnaise_des_eaux</item>
+        <item>@array/basto</item>
+        <item>@array/impact</item>
+        <item>@array/webhelp</item>
+        <item>@array/arval</item>
+        <item>@array/blablacar</item>
+        <item>@array/secur_feu</item>
+        <item>@array/ibis</item>
+        <item>@array/lezard</item>
+        <item>@array/haribo</item>
+        <item>@array/skyn</item>
+        <item>@array/manix</item>
+        <item>@array/maze</item>
+        <item>@array/festivalrocks</item>
+        <item>@array/sorbonne</item>
+        <item>@array/utc</item>
+        <item>@array/conseil_regional</item>
+        <item>@array/bde_utc</item>
+        <item>@array/arc</item>
+        <item>@array/conseil_departemental</item>
+        <item>@array/crous</item>
+        <item>@array/escom</item>
+        <item>@array/esiea_paris</item>
+        <item>@array/esc_amiens</item>
+        <item>@array/polythec_lille</item>
+        <item>@array/bde_esiee</item>
+        <item>@array/estaca</item>
+        <item>@array/bde_polytechparis</item>
+        <item>@array/bde_insa</item>
+        <item>@array/bda_dauphine</item>
+    </array>
+
+
+    <!--
+
+
+        ______________________________INFOS_PRATIQUES_______________________________
+
+
+    -->
+
+    <string-array name="presentation_imaginarium">
+        <item name="titre">L\'association Imaginarium Festival</item>
+    </string-array>
+    <string-array name="billeterie">
+        <item name="titre">Billeterie</item>
+    </string-array>
+    <string-array name="reglement">
+        <item name="titre">Les règles du campement</item>
+    </string-array>
+    <string-array name="partenaires">
+        <item name="titre">Les partenaires</item>
+    </string-array>
+
+    <array name="liste_infos">
+        <item>@array/presentation_imaginarium</item>
+        <item>@array/billeterie</item>
+        <item>@array/reglement</item>
+        <item>@array/partenaires</item>
+    </array>
+
+
+    <!--
+
+
+        ______________________________REGLEMENT_______________________________
+
+
+    -->
+
+    <string-array name="regle1">
+        <item name="titre">1. HORAIRES D’OUVERTURE</item>
+        <item name="texte">Le camping accueille les premiers campeurs le samedi 23 mai 2015 à partir de 14h,
+sera ouvert 24h/24 jusqu’au lundi 25 mai 14h.</item>
+    </string-array>
+    <string-array name="regle2">
+        <item name="titre">2. ACCES AU CAMPING</item>
+        <item name="texte">Le billet pour le camping est valable par personne et non par tente.\n\n
+L’accès au camping n’est autorisé qu’aux personnes porteuses des bracelets prévus à
+cet effet (CAMPING + FESTIVAL). Ceux-ci doivent être portés en permanence. Toute
+personne ne portant pas les bracelets adéquats se verra reconduite à la sortie du
+camping.\n\n
+A chaque entrée, une palpation de sécurité et une fouille des bagages seront
+effectuées.\n\n
+Les personnes âgées de moins de 16 ans, non accompagnées d’un adulte, ne sont
+admises que sur présentation d’une autorisation parentale accompagnée d’une copie
+de la carte d’identité des parents.</item>
+    </string-array>
+    <string-array name="regle3">
+        <item name="titre">3. NOURRITURE ET BOISSON</item>
+        <item name="texte">Il sera possible de se restaurer toute la journée sur le site durant les deux jours du
+festival, notamment dans la zone village.</item>
+    </string-array>
+    <string-array name="regle4">
+        <item name="titre">4. OBJETS TROUVES</item>
+        <item name="texte">Tous les objets trouvés sont conservés au point « Objets trouvés » situé à l’entrée du
+festival. Les objets non réclamés à l’issue du festival seront remis à la police de Margnylès-Compiègne.</item>
+    </string-array>
+    <string-array name="regle5">
+        <item name="titre">5. OBJETS INTERDITS</item>
+        <item name="texte">Tout produit stupéfiant.\n\n
+        Tout récipient en verre.\n\n
+        Toute boisson alcoolisée.\n\n
+        Les pipes à eau, les shishas…\n\n
+        Tout type de feu dépassant la taille d’une flamme de briquet (bougies, brûleurs
+et autres installations à gaz).\n\n
+        Les groupes électrogènes.\n\n
+        Les outils (clés plates, pinces, pelles) pouvant servir à démonter les grilles.\n\n
+        Les objets coupants, contondants et tout autre matériel nocif à la convivialité du
+camping sont interdits (armes blanches, feux d’artifices, pétards…).\n\n
+        Les voitures, motos, remorques, caravanes, camping-cars etc. mettant en
+danger la sécurité des campeurs.\n\n
+        Les animaux domestiques, à l’exception des chiens-guides.\n\n
+        Les installations de musique (sonos). La musique trop forte n’est pas autorisée,
+n’oubliez pas de respecter le sommeil des autres.\n\n
+        Les activités commerciales : les campeurs ne sont pas autorisés à vendre de la
+nourriture, des boissons ou quoi que ce soit d’autre.\n\n
+        La distribution de dépliants et autres matériels de promotion est interdite.\n\n\n
+        Sauf autorisation expresse de l’organisation, les auvents et tonnelles, ainsi que toute
+grande tente dépassant 9m2 sont également interdites. En cas d’intempéries sérieuses
+(orage, grand vent…) les tonnelles devront toujours être démontées, pour votre propre
+sécurité.\n\n
+        Si le campeur décide d’abandonner un objet interdit pour accéder au camping,
+l’organisation n’est en rien tenue de lui en assurer la restitution.\n\n
+        Toute personne surprise sur le terrain de camping en possession d’un des objets
+interdits sera immédiatement exclue du camping et du festival, à titre définitif et sans
+remboursement.\n\n
+        L’accès au camping sera interdit à toute personne qui enfreindra ces règles. Les
+contrevenants s’exposent à des poursuites judiciaires.</item>
+    </string-array>
+    <string-array name="regle6">
+        <item name="titre">6. SANITAIRES</item>
+        <item name="texte">Des toilettes et des robinets (accessibles 24h/24, du samedi matin au lundi matin
+inclus) sont mis gratuitement à votre disposition sur le camping, dans la zone village et
+derrière le chapiteau.</item>
+    </string-array>
+    <string-array name="regle7">
+        <item name="titre">7. EAU POTABLE</item>
+        <item name="texte">Plusieurs points d’eau potable utilisables durant toute la durée du festival sont
+disponibles sur l’ensemble du site, y compris dans le camping.</item>
+    </string-array>
+    <string-array name="regle8">
+        <item name="titre">8. EMPLACEMENT</item>
+        <item name="texte">Il n’est pas autorisé de réserver un emplacement pour de futurs arrivants, sauf
+autorisation de l’organisation.\n\n
+Merci d’installer votre tente dans la zone désignée par les bénévoles de l’organisation,
+et de respecter le marquage au sol délimitant les allées et sorties de secours. Toute
+installation (tente, tendeurs, etc.) susceptible d’entraver le passage des secours sera
+démontée.\n\n
+Il pourra vous être demandé d’optimiser votre espace et de permettre ainsi l’installation
+de tous.</item>
+    </string-array>
+    <string-array name="regle9">
+        <item name="titre">9. SECURITE</item>
+        <item name="texte">Une permanence de la Croix-rouge est tenue sur le site durant toute la durée du
+festival.\n\n
+Des agents de sécurité (dont un maître-chien) et des bénévoles seront en permanence
+présents à l’entrée et à l’intérieur du camping. N’hésitez pas à leur signaler tout
+problème.</item>
+    </string-array>
+    <string-array name="regle10">
+        <item name="titre">10. VOL ET DEGRADATIONS</item>
+        <item name="texte">Malgré la présence d’agents de sécurité, il est impossible de surveiller les affaires de
+chaque campeur. Ne laissez donc jamais d’objet de valeur dans votre tente sans
+surveillance.\n\n
+L’organisation décline toute responsabilité en cas de vol ou dégradation.</item>
+    </string-array>
+    <string-array name="regle11">
+        <item name="titre">11. RESPECT DU SITE ET DES AUTRES CAMPEURS</item>
+        <item name="texte">Il est strictement interdit (sous peine d’exclusion immédiate) d’abandonner vos ordures
+sur le sol. Des sacs poubelles sont mis gratuitement à votre disposition à l’entrée du
+camping. Merci de trier vos ordures et de les déposer au point de collecte le plus
+proche.\n\n
+Toute personne tentant d’escalader, d’ouvrir ou d’abîmer les infrastructures sera
+immédiatement exclue du camping et du festival.\n\n
+Il est interdit de dénaturer les arbres, d’en couper des branches et de dégrader le sol.
+Toute action de dégradation commise à l’encontre de la végétation, des clôtures, du
+terrain ou des installations sera de la responsabilité de son auteur, qui devra s’acquitter
+du coût des remises en état.\n\n
+De façon générale, chacun est prié de s’abstenir de toute action qui pourrait nuire à la
+propreté, à l’hygiène et à l’aspect général du camping et de ses installations,
+notamment sanitaires.\n\n
+L’emplacement qui aura été utilisé durant le séjour doit être remis dans l’état dans
+lequel le campeur l’a trouvé à son arrivée dans les lieux.</item>
+    </string-array>
+
+    <array name="liste_reglements">
+        <item>@array/regle1</item>
+        <item>@array/regle2</item>
+        <item>@array/regle3</item>
+        <item>@array/regle4</item>
+        <item>@array/regle5</item>
+        <item>@array/regle6</item>
+        <item>@array/regle7</item>
+        <item>@array/regle8</item>
+        <item>@array/regle9</item>
+        <item>@array/regle10</item>
+        <item>@array/regle11</item>
+    </array>
+
+
+    <!--
+
+     ______________________________CALQUES_______________________________
+
+
+     -->
+
+    <string-array name="calque1">
+        <item name="source">calque1</item>
+    </string-array>
+    <string-array name="calque2">
+        <item name="source">calque2</item>
+    </string-array>
+    <string-array name="calque3">
+        <item name="source">calque1</item>
+    </string-array>
+    <string-array name="calque4">
+        <item name="source">calque2</item>
+    </string-array>
+    <string-array name="calque5">
+        <item name="source">calque1</item>
+    </string-array>
+    <string-array name="calque6">
+        <item name="source">calque2</item>
+    </string-array>
+    <string-array name="calque7">
+        <item name="source">calque1</item>
+    </string-array>
+    <string-array name="calque8">
+        <item name="source">calque2</item>
+    </string-array>
+
+    <array name="liste_calques">
+        <item>@array/calque1</item>
+        <item>@array/calque2</item>
+        <item>@array/calque3</item>
+        <item>@array/calque4</item>
+        <item>@array/calque5</item>
+        <item>@array/calque6</item>
+        <item>@array/calque7</item>
+        <item>@array/calque8</item>
+    </array>
+
+
+    <!--
+
+
+        ______________________________MENU_______________________________
+
+
+    -->
+
+    <string-array name="items_menu">
+        <item name="titre1">Infos Pratiques</item>
+        <item name="titre2">Appareil Photo</item>
+        <item name="titre3">Artistes</item>
+    </string-array>
+</resources>
