@@ -419,5 +419,6 @@ lequel le campeur l’a trouvé à son arrivée dans les lieux.</item>
         <item name="titre1">Infos Pratiques</item>
         <item name="titre2">Appareil Photo</item>
         <item name="titre3">Artistes</item>
+        <item name="titre3">Programmation</item>
     </string-array>
 </resources>

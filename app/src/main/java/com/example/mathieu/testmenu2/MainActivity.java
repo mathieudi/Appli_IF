@@ -16,6 +16,8 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
+import com.example.mathieu.testmenu2.LineUp.LineUp;
+
 import java.util.Arrays;
 import java.util.List;
 
@@ -64,6 +66,9 @@ public class MainActivity extends Activity {
                         break;
                     case 2:
                         frag = new Artistes();
+                        break;
+                    case 3:
+                        frag = new LineUp();
                         break;
                 }
 
